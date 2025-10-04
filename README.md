@@ -2,7 +2,7 @@
 
 **Privacy-first, on-device wearable thinking partner **
 
-> A pocket-sized compute unit + wired headset that listens, transcribes, indexes, and reasons — a private external memory and conversational assistant that runs locally on an Edge GPU devkit (Jetson Orin Nano-class). This README describes the Tier C MVP: hardware, software, architecture, setup, and roadmap for a production-minded student prototype.
+> A pocket-sized compute unit + wired headset that listens, transcribes, indexes, and reasons — a private external memory and conversational assistant that runs locally on an Edge GPU devkit (Jetson Orin Nano-class). 
 
 ---
 
